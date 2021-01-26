@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #fff;
+    font-family: 'Nunito', sans-serif;
+}
+.navbar{
+    border-bottom: 1px solid rgb(204, 204, 204);
+    height: 75px;
+}
+.navbar-brand,.navbar-brand:hover{
+    color: #111;
+    font-size: 30px;
+    font-weight: 600;
+}
+.navbar-nav .nav-item .nav-link{
+    color: #111;
+    font-size: 20px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: rgb(243, 56, 103);
+}
+.navbar .btn-serch{
+    color: rgb(243, 56, 103);
+    font-size: 20px;
+}
